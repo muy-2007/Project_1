@@ -10,4 +10,4 @@ class Logic(QMainWindow, Ui_MainWindow):
         self.button_power.clicked.connect(lambda : self.power())
 
     def power(self):
-        
+        screen = self.screen()
