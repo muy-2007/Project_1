@@ -8,3 +8,4 @@ class Logic(QMainWindow, Ui_MainWindow):
         self.setupUi(self)
 
 
+pass
