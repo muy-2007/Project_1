@@ -42,4 +42,4 @@ class Logic(QMainWindow, Ui_MainWindow):
     def channel_4(self):
         pass
     def channel_5(self):
-        pass
+        pas
