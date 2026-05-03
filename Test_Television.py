@@ -1,5 +1,4 @@
-from pytest import *
-from television import *
+from Television import *
 
 class test_television:
 
