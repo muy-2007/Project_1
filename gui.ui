@@ -124,7 +124,7 @@
      <string>5</string>
     </property>
    </widget>
-   <widget class="QGraphicsView" name="image_channel">
+   <widget class="QGraphicsView" name="screen">
     <property name="geometry">
      <rect>
       <x>110</x>
