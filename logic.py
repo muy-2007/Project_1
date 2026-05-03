@@ -3,7 +3,7 @@ from gui import *
 
 
 class Logic(QMainWindow, Ui_MainWindow):
-    def __init__(self):
+    def __init__(self) -> None:
         '''
         Used to create the main window
         param: self
