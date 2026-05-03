@@ -7,7 +7,4 @@ class Logic(QMainWindow, Ui_MainWindow):
         super(Logic, self).__init__()
         self.setupUi(self)
 
-        self.button_power.clicked.connect(lambda : self.power())
 
-    def power(self):
-        screen = self.screen()
