@@ -4,7 +4,7 @@ def main():
     application = QApplication([])
     window = Logic()
     window.show()
-    application.exec_()
+    application.exec()
 
 
 if __name__ == '__main__':
